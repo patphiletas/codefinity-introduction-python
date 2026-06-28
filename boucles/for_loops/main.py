@@ -4,4 +4,4 @@ total=0
 for price in prices:
     total += price
    
-print(total)
+print("total price for products:",total)
